@@ -6,17 +6,20 @@ table, th, td
 table {
     font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse:collapse;
+ 	width:50%;
+    
 }
  
 td,th {
     border:1px solid blue;
-    padding:3px 7px 2px 7px;
+    padding:3px 3px 2px 7px;
 }
  
 th {
     text-align:left;
     padding-top:5px;
     padding-bottom:4px;
-    background-color:#0099ff;
+    background-color:#2f5778;
     color:#ffffff;
+    width:50%;
 }
